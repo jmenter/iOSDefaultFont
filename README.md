@@ -3,7 +3,7 @@ A category on UIApplication for easy setting of the default font for your app.
 
 Just call, for example in your applicationDidFinishLaunching method something like this: (Please don't use Zapfino as your app's font.)
 
-  application.defaultFontName = @"Zapfino";
+    application.defaultFontName = @"Zapfino";
 
  It uses a simple method to determine what fonts (if any) to use for normal and bold weights, and uses a variety of techniques for establishing that default font throughout the app. Including:
 
