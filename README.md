@@ -11,4 +11,8 @@ Just call, for example in your applicationDidFinishLaunching method something li
 - Using performSelector for deprecated methods that are still hella useful and NSClassFromString for undocumenteds
 - Using method swizzling for those really hard to reach areas
 
+
 <img src="https://raw.githubusercontent.com/jmenter/iOSDefaultFont/master/example.png" width="750">
+
+
+If you find problems or elements that aren't covered here, leave a message in the comments I guess?
